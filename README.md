@@ -1,7 +1,10 @@
-👀 Da da da
-👀 dan da dan
-🌱 Dokou hanabi
-🌱 Boom boom bakudan
+da da da
+
+dan da dan
+
+dokou hanabi
+
+boom boom bakudan
 
 hello world
 
