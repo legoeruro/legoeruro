@@ -1,4 +1,4 @@
-
+Too lazy to add a bio
 
 <!---
 legoeruro/legoeruro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
